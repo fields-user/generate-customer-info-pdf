@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-customer-pdf",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-dropzone": "^14.2.3",
+    "jspdf": "^2.5.1"
+  }
+}
