@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3729cab4-ac78-4553-8017-d676e2c701db" name="Changes" comment="" />
+    <list default="true" id="3729cab4-ac78-4553-8017-d676e2c701db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="33C9pLbfE8XqYAcoeVHhsdV53Wb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +29,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
